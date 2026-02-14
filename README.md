@@ -1,2 +1,1 @@
-# sql-server-portfolio
-Projetos e estudos em SQL Server - nível iniciante
+Projeto SQL Server – Controle de Clientes e Pedidos
