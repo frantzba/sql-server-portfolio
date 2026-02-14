@@ -1,9 +1,9 @@
 Projeto SQL Server – Controle de Clientes e Pedidos
 
-Objetivo
+Objetivo:
 Projeto prático para treinar conceitos fundamentais de SQL Server.
 
-Estrutura do Projeto
+Estrutura do Projeto:
 - Estrutura.sql → Criação das tabelas
 - 02-Inserts.sql → Inserção de dados
 - 03-Consultas-Basicas.sql → SELECT e INNER JOIN
@@ -11,7 +11,7 @@ Estrutura do Projeto
 - 05-Agrupamentos.sql → GROUP BY, SUM e COUNT
 - 06-Desafio.sql → Consulta com HAVING
 
-  Conceitos Aplicados
+  Conceitos Aplicados:
   - CREATE TABLE
 - INSERT INTO
 - SELECT
@@ -23,9 +23,9 @@ Estrutura do Projeto
 - SUM()
 - COUNT()
 
-Tecnologias
+Tecnologias:
 - SQL Server
 - GitHub
 
-Autor
+Autor:
 Frantzo
