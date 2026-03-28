@@ -1,1 +1,1 @@
-
+CREATE DATABASE EmpresaVendas;
